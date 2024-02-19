@@ -19,7 +19,7 @@ skinparam useBetaStyle false
 !$PRIMARY_DARK = "#262626"
 !$PRIMARY_LIGHT = "#595959"
 ' !$PRIMARY_TEXT = "#0060a8"
-!$PRIMARY_TEXT = "#fff200"
+!$PRIMARY_TEXT = "#ffffff"
 !$SECONDARY = "#484848"
 !$SECONDARY_DARK = "#3a3a3a"
 !$SECONDARY_LIGHT = "#6d6d6d"
