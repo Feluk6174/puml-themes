@@ -18,7 +18,6 @@ skinparam useBetaStyle false
 !$PRIMARY = "#303030"
 !$PRIMARY_DARK = "#262626"
 !$PRIMARY_LIGHT = "#595959"
-' !$PRIMARY_TEXT = "#0060a8"
 !$PRIMARY_TEXT = "#ffffff"
 !$SECONDARY = "#484848"
 !$SECONDARY_DARK = "#3a3a3a"
@@ -37,7 +36,7 @@ skinparam useBetaStyle false
 !$DANGER = "#ff0000"
 !$DANGER_DARK = "#cc0000"
 !$DANGER_LIGHT = "#ff3333"
-!$LIGHT = "#fff200"
+!$LIGHT = "#ffffff"
 !$DARK = "#484848"
 
 !procedure $success($msg)
